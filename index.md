@@ -4,6 +4,8 @@ Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://
 
 I am also co-organisor of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC. 
 
+## News
+- **April 2023**: Our paper "Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?" is accepted at FAccT '23!
+
 ## Preprints
 - van der Wal, O., Bachmann, D., **Leidinger, A.**, Van Maanden, L., Zuidema, J., Schulz, K. Undesirable biases in NLP: Averting a crisis of measurement. ArXiv. [<a href="https://arxiv.org/pdf/2211.13709.pdf">paper</a>]
-
