@@ -6,6 +6,7 @@ I am also co-organisor of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 
 ## News
 - **April 2023**: Our paper "Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?" is accepted at FAccT '23!
+- **Aug 2023**: I gave an interview on the <a href="https://twitter.com/techpolicypress/status/1695817590055002568">Tech Policy Press podcast</a>, check it out!
 
 ## Publications
 - **Alina Leidinger** and Richard Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23), June 12–15, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 13 pages. [<a href="https://doi.org/10.1145/3593013.3594062">https://doi.org/10.1145/3593013.3594062</a>]
