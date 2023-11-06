@@ -15,7 +15,7 @@ I am also co-organisor of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 - **Sept 2022**: I'm presenting at ELLIS PhD Symposium at the University of Alicante.
 
 ## Publications
-- **A. Leidinger**, R. van Rooij, E. Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? *Accepted to Findings of EMNLP 2023*
+- **A. Leidinger**, R. van Rooij, E. Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? [<a href="https://arxiv.org/abs/2311.01967">ArXiv</a>] *Accepted to Findings of EMNLP 2023*
 - G. Starace, K. Papakostas, R. Choenni, A. Panagiotopoulos, M. Rosati, **A. Leidinger**, E. Shutova. 2023. Starace Probing LLMs for Joint Encoding of Linguistic Categories. [<a href="https://arxiv.org/abs/2310.18696">ArXiv</a>] *Accepted to Findings of EMNLP 2023* 
 - **Alina Leidinger** and Richard Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23), June 12–15, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 13 pages. [<a href="https://doi.org/10.1145/3593013.3594062">https://doi.org/10.1145/3593013.3594062</a>]
 - van der Wal, O., Bachmann, D., **Leidinger, A.**, Van Maanden, L., Zuidema, J., Schulz, K. Undesirable biases in NLP: Averting a crisis of measurement. [<a href="https://arxiv.org/pdf/2211.13709.pdf">ArXiv</a>] *Accepted to JAIR.*
