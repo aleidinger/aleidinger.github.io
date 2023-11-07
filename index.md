@@ -5,8 +5,9 @@ Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://
 I am also co-organisor of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC. 
 
 ## News
-- **Oct 2023**: Our paper "The Language of Prompting: What linguistic properties make a prompt successful?" got accepted to EMNLP findings: Stay tuned!
-- **Sept 2023**: Starting a research visit at CIS, LMU!
+- **Nov 2024**: I'm giving a talk at Comète Inria Politechnique's workshop on Ethical AI. 
+- **Oct 2023**: Our paper "The Language of Prompting: What linguistic properties make a prompt successful?" got accepted to EMNLP findings! [<a href="https://arxiv.org/abs/2311.01967">ArXiv</a>]
+- **Sept 2023**: Starting a research visit in <a href="https://schuetze.cis.lmu.de/">Hinrich Schütze</a>'s lab at LMU, Munich!
 - **Sept 2023**: I'm giving a talk at the Workshop on generative AI and search engines at HAW, Hamburg.
 - **Aug 2023**: I gave an interview on the <a href="https://twitter.com/techpolicypress/status/1695817590055002568">Tech Policy Press podcast</a>, check it out!
 - **April 2023**: Our paper "Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?" is accepted to FAccT!
