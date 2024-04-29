@@ -5,8 +5,8 @@ Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://
 I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC. 
 
 ## News
-- **Dec 2024**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
-- **Nov 2024**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
+- **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
+- **Nov 2023**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
 - **Oct 2023**: Our paper "The Language of Prompting: What linguistic properties make a prompt successful?" got accepted to EMNLP findings! [<a href="https://arxiv.org/abs/2311.01967">ArXiv</a>]
 - **Sept 2023**: Starting a research visit in <a href="https://schuetze.cis.lmu.de/">Hinrich Schütze</a>'s lab at LMU, Munich!
 - **Sept 2023**: I'm giving a talk at the Workshop on generative AI and search engines at HAW, Hamburg.
