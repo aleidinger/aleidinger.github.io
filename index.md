@@ -4,6 +4,8 @@ Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://
 
 I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC. 
 
+<a href="https://github.com/aleidinger/aleidinger.github.io/blob/master/assets/CV_AlinaLeidinger.pdf">CV</a>
+
 ## News
 - **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
 - **Nov 2023**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
@@ -19,6 +21,6 @@ I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 ## Publications
 - **A. Leidinger**, R. van Rooij, E. Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? [<a href="https://aclanthology.org/2023.findings-emnlp.618/">paper</a>] *Findings of EMNLP 2023*
 - G. Starace, K. Papakostas, R. Choenni, A. Panagiotopoulos, M. Rosati, **A. Leidinger**, E. Shutova. 2023. Starace Probing LLMs for Joint Encoding of Linguistic Categories. [<a href="https://aclanthology.org/2023.findings-emnlp.476/">paper</a>] *Findings of EMNLP 2023* 
-- **Alina Leidinger** and Richard Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion?. In 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23) [<a href="https://doi.org/10.1145/3593013.3594062">paper</a>]
-- van der Wal, O., Bachmann, D., **Leidinger, A.**, Van Maanden, L., Zuidema, J., Schulz, K. Undesirable biases in NLP: Averting a crisis of measurement. [<a href="https://arxiv.org/pdf/2211.13709.pdf">ArXiv</a>] *JAIR*
-- Sagonas, Christos, Yannis Panagakis, **Alina Leidinger**, and Stefanos Zafeiriou. "Robust Joint and Individual Variance Explained." In 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5739-5748. IEEE Computer Society, 2017. [<a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Sagonas_Robust_Joint_and_CVPR_2017_paper.pdf">paper</a>]
+- **A. Leidinger** and R. Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion? [<a href="https://doi.org/10.1145/3593013.3594062">paper</a>] *FAccT 2023*
+- O. van der Wal, D. Bachmann, **A. Leidinger**, L. van Maanden, J. Zuidema, K. Schulz. Undesirable biases in NLP: Averting a crisis of measurement. [<a href="https://arxiv.org/pdf/2211.13709.pdf">paper</a>] *JAIR*
+- C. Sagonas, Y. Panagakis, **A. Leidinger**, S. Zafeiriou. 2017. Robust Joint and Individual Variance Explained. [<a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Sagonas_Robust_Joint_and_CVPR_2017_paper.pdf">paper</a>] *CVPR 2017*
