@@ -4,7 +4,7 @@ Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://
 
 I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC. 
 
-<a href="https://github.com/aleidinger/aleidinger.github.io/blob/master/assets/CV_AlinaLeidinger.pdf">CV</a>
+[CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
 - **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
