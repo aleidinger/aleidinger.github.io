@@ -7,6 +7,7 @@ I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 [CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
+- **May 2024**: Our paper 'Are LLMs classical or nonmonotonic reasoners? Lessons from generics' has been accepted at ACL (main)! 🎉
 - **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
 - **Nov 2023**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
 - **Oct 2023**: Our paper "The Language of Prompting: What linguistic properties make a prompt successful?" got accepted to EMNLP findings! [<a href="https://arxiv.org/abs/2311.01967">ArXiv</a>]
@@ -20,10 +21,10 @@ I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 
 ## Publications
 **In prep**
-- **A. Leidinger** and R. Rogers. 2024. Does safety training of LLMs prevent stereotyping harms? Learning from search engine studies. *Under review.*
-- **A. Leidinger**, E. Shutova, R. van Rooij. 2024. Are LLMs classical or nonmonotonic reasoners? Lessons from generics. *Under review.*
+- **A. Leidinger** and R. Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. *Under review.*
 
 **Peer-reviewed**
+- **A. Leidinger**, R. van Rooij, E. Shutova. 2024. Are LLMs classical or nonmonotonic reasoners? Lessons from generics. *ACL 2024 (main)*
 - **A. Leidinger**, R. van Rooij, E. Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? [<a href="https://aclanthology.org/2023.findings-emnlp.618/">paper</a>] *Findings of EMNLP 2023*
 - G. Starace, K. Papakostas, R. Choenni, A. Panagiotopoulos, M. Rosati, **A. Leidinger**, E. Shutova. 2023. Starace Probing LLMs for Joint Encoding of Linguistic Categories. [<a href="https://aclanthology.org/2023.findings-emnlp.476/">paper</a>] *Findings of EMNLP 2023* 
 - **A. Leidinger** and R. Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion? [<a href="https://doi.org/10.1145/3593013.3594062">paper</a>] *FAccT 2023*
