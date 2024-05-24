@@ -21,11 +21,12 @@ I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">C
 
 ## Publications
 **In prep**
-- **A. Leidinger** and R. Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. *Under review.*
+- Giada Pistilli*, **Alina Leidinger***, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://arxiv.org/abs/2405.13974">preprint</a>] *Under review.*
+- **Alina Leidinger** and Richard Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. *Under review.*
 
 **Peer-reviewed**
-- **A. Leidinger**, R. van Rooij, E. Shutova. 2024. Are LLMs classical or nonmonotonic reasoners? Lessons from generics. *ACL 2024 (main)*
-- **A. Leidinger**, R. van Rooij, E. Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? [<a href="https://aclanthology.org/2023.findings-emnlp.618/">paper</a>] *Findings of EMNLP 2023*
+- **Alina Leidinger**, Robert van Rooij, Ekaterina Shutova. 2024. Are LLMs classical or nonmonotonic reasoners? Lessons from generics. *ACL 2024 (main)*
+- **Alina Leidinger**, Robert van Rooij, Ekaterina Shutova. 2023. The Language of Prompting: What linguistic properties make a prompt successful? [<a href="https://aclanthology.org/2023.findings-emnlp.618/">paper</a>] *Findings of EMNLP 2023*
 - G. Starace, K. Papakostas, R. Choenni, A. Panagiotopoulos, M. Rosati, **A. Leidinger**, E. Shutova. 2023. Starace Probing LLMs for Joint Encoding of Linguistic Categories. [<a href="https://aclanthology.org/2023.findings-emnlp.476/">paper</a>] *Findings of EMNLP 2023* 
 - **A. Leidinger** and R. Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion? [<a href="https://doi.org/10.1145/3593013.3594062">paper</a>] *FAccT 2023*
 - O. van der Wal, D. Bachmann, **A. Leidinger**, L. van Maanden, J. Zuidema, K. Schulz. Undesirable biases in NLP: Averting a crisis of measurement. [<a href="https://arxiv.org/pdf/2211.13709v2.pdf">paper</a>] *JAIR*
