@@ -22,7 +22,7 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 
 ## Publications
 **In prep**
-- Giada Pistilli*, **Alina Leidinger***, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://arxiv.org/abs/2405.13974">preprint</a>] *Under review.*
+- Giada Pistilli\*, **Alina Leidinger**\*, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://arxiv.org/abs/2405.13974">preprint</a>] *Under review.*
 - **Alina Leidinger** and Richard Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. *Under review.*
 
 **Peer-reviewed**
