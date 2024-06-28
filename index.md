@@ -25,6 +25,7 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 **In prep**
 - Giada Pistilli\*, **Alina Leidinger**\*, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://arxiv.org/abs/2405.13974">preprint</a>] *Under review.*
 - **Alina Leidinger** and Richard Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. *Under review.*
+- Irene Solaiman, Zeerak Talat, William Agnew, Lama Ahmad, Dylan Baker, Su Lin Blodgett, Canyu Chen, Hal Daumé III, Jesse Dodge, Isabella Duan, Ellie Evans, Felix Friedrich, Avijit Ghosh, Usman Gohar, Sara Hooker, Yacine Jernite, Ria Kalluri, Alberto Lusoli, **Alina Leidinger**, Michelle Lin, Xiuzhu Lin, Sasha Luccioni, Jennifer Mickel, Margaret Mitchell, Jessica Newman, Anaelia Ovalle, Marie-Therese Png, Shubham Singh, Andrew Strait, Lukas Struppek, Arjun Subramonian. 2024. Evaluating the Social Impact of Generative AI Systems in Systems and Society. [<a href="https://arxiv.org/abs/2306.05949">preprint</a>]
 
 **Peer-reviewed**
 - **Alina Leidinger**, Robert van Rooij, Ekaterina Shutova. 2024. Are LLMs classical or nonmonotonic reasoners? Lessons from generics. [<a href="https://arxiv.org/abs/2406.06590">paper</a>] *ACL 2024 (main)*
