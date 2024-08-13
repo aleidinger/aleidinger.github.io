@@ -9,7 +9,7 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 
 ## News
 - **June 2024**: Our work on <a href="https://arxiv.org/abs/2405.13974">CIVICS</a> has been covered by TechCrunch! You can find the article <a href="https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/?guccounter=1">here</a>.
-- **May 2024**: Our paper '<a href="https://arxiv.org/abs/2406.06590">Are LLMs classical or nonmonotonic reasoners? Lessons from generics</a>' has been accepted at ACL (main)! 🎉
+- **May 2024**: Our paper '<a href="https://aclanthology.org/2024.acl-short.51/">Are LLMs classical or nonmonotonic reasoners? Lessons from generics</a>' has been accepted at ACL (main)! 🎉
 - **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
 - **Nov 2023**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
 - **Oct 2023**: Our paper "The Language of Prompting: What linguistic properties make a prompt successful?" got accepted to EMNLP findings! [<a href="https://arxiv.org/abs/2311.01967">ArXiv</a>]
