@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Alina Leidinger and I am a PhD candidate at the <a href="https://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> (ILLC) at the University of Amsterdam, supervised by <a href="https://www.shutova.org/">Katia Shutova</a> and <a href="https://www.illc.uva.nl/People/person/1405/Prof-dr-Robert-van-Rooij">Robert van Rooij</a>. In my PhD, I work on implicit bias and stereotypes in large Language Models. My research topic lies at the intersection of Natural Language Processing and Ethical AI. Previously, I obtained an MSc in Mathematics in Data Science from <a href="https://www.tum.de/en/">Technical University of Munich</a> and a BSc in Mathematics from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. 
+Hi!👋 My name is Alina Leidinger and I am a 3rd year PhD candidate at the University of Amsterdam's <a href="https://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> (ILLC). I'm advised by <a href="https://www.shutova.org/">Katia Shutova</a> and <a href="https://www.illc.uva.nl/People/person/1405/Prof-dr-Robert-van-Rooij">Robert van Rooij</a>. In my PhD, I work on bias, stereotypes and robustness in large Language Models. My research topic lies at the intersection of Natural Language Processing and Ethical AI. Previously, I obtained an MSc and BSc in Mathematics from <a href="https://www.tum.de/en/">Technical University of Munich</a> and <a href="https://www.imperial.ac.uk/">Imperial College London</a>. 
 
 I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC and part of the <a href="https://staging3.certain-ai.nl/">Center for Explainable
 Responsible and Theory-driven Artificial Intelligence</a>. 
@@ -8,7 +8,9 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 [CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
-- **June 2024**: Our work on <a href="https://arxiv.org/abs/2405.13974">CIVICS</a> has been covered by TechCrunch! You can find the article <a href="https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/?guccounter=1">here</a>.
+- **Aug 2024**: I'm attending ACL🇹🇭🐘 to present our <a href="https://aclanthology.org/2024.acl-short.51/">paper on robust evaluation</a> in reasoning! 
+- **July 2024**: Two papers accepted at ACM/AAAI AI, Ethics, and Society! 🥳 Check them out if you're curious about <a href="https://arxiv.org/abs/2407.11733">stereotyping</a> or <a href="https://arxiv.org/abs/2405.13974">cultural values</a>!
+- **June 2024**: Our work on <a href="https://arxiv.org/abs/2405.13974">CIVICS</a> has been covered by <a href="https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/?guccounter=1">TechCrunch</a> (en) and <a href="https://www.lesechos.fr/idees-debats/editos-analyses/lia-nen-a-pas-fini-avec-les-biais-2113572">Les Echos</a> (fr)! 
 - **May 2024**: Our paper '<a href="https://aclanthology.org/2024.acl-short.51/">Are LLMs classical or nonmonotonic reasoners? Lessons from generics</a>' has been accepted at ACL (main)! 🎉
 - **Dec 2023**: Attending EMNLP🇸🇬 to present our <a href="https://arxiv.org/abs/2311.01967">paper</a> on robustness in prompting at <a href="https://genbench.org/workshop/">GenBench</a> workshop and during the main conference.
 - **Nov 2023**: I'm giving a talk at <a href="https://www.lix.polytechnique.fr/ethicalai/">Comète Inria Politechnique's workshop on Ethical AI</a>. 
