@@ -2,7 +2,7 @@
 
 Hi!👋 My name is Alina Leidinger and I am a 4th year PhD candidate at the <a href="https://www.uva.nl/">University of Amsterdam</a>'s <a href="https://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> (ILLC). I'm advised by <a href="https://www.shutova.org/">Katia Shutova</a> and <a href="https://www.illc.uva.nl/People/person/1405/Prof-dr-Robert-van-Rooij">Robert van Rooij</a>. In my PhD, I work on bias, stereotypes and robustness in large Language Models. My research topic lies at the intersection of Natural Language Processing and Ethical AI. Previously, I obtained a BSc and MSc in Mathematics from <a href="https://www.imperial.ac.uk/">Imperial College London</a> and <a href="https://www.tum.de/en/">Technical University of Munich</a>.
 
-I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC and part of the <a href="https://staging3.certain-ai.nl/">Center for Explainable
+I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC and part of the <a href="https://certain-ai.nl/">Center for Explainable
 Responsible and Theory-driven Artificial Intelligence</a>. 
 
 [CV](assets/CV_AlinaLeidinger.pdf)
