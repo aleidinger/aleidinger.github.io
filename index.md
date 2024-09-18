@@ -24,6 +24,9 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 - **Sept 2022**: I'm presenting at ELLIS PhD Symposium at the University of Alicante.
 
 ## Publications
+**Preprints**
+- Marion Thaler, Abdullatif Köksal, **Alina Leidinger**, Anna Korhonen, Hinrich Schütze. 2024. Bias Propagation in LLMs: Tracing Gender Bias from Pre-training Data to Alignment. *Under review.*
+
 **Peer-reviewed**
 - Giada Pistilli\*, **Alina Leidinger\***, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://arxiv.org/abs/2405.13974">preprint</a>] *ACM/AAAI AI, Ethics, and Society.*
 - **Alina Leidinger** and Richard Rogers. 2024. How are LLMs mitigating stereotyping harms? Learning from search engine studies. [<a href="https://arxiv.org/abs/2407.11733">preprint</a>] *ACM/AAAI AI, Ethics, and Society.*
