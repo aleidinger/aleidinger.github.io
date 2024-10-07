@@ -8,6 +8,8 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 [CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
+- **Oct 2024**: I'm attending AIES in San Jose to present our work on stereotypes in LLMs & the CIVICS🤗 dataset!
+- **Oct 2024**: I'm in Milan to visit MilaNLP and give a talk on stereotyping in LLMs!
 - **Aug 2024**: I'm attending ACL🇹🇭🐘 to present our <a href="https://aclanthology.org/2024.acl-short.51/">paper on robust evaluation</a> in reasoning! 
 - **July 2024**: Two papers accepted at ACM/AAAI AI, Ethics, and Society! 🥳 Check them out if you're curious about <a href="https://arxiv.org/abs/2407.11733">stereotyping</a> or <a href="https://arxiv.org/abs/2405.13974">cultural values</a>!
 - **June 2024**: Our work on <a href="https://arxiv.org/abs/2405.13974">CIVICS</a> has been covered by <a href="https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/?guccounter=1">TechCrunch</a> (en) and <a href="https://www.lesechos.fr/idees-debats/editos-analyses/lia-nen-a-pas-fini-avec-les-biais-2113572">Les Echos</a> (fr)! 
