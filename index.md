@@ -2,8 +2,7 @@
 
 Hi!👋 My name is Alina Leidinger and I am a 4th year PhD candidate at the <a href="https://www.uva.nl/">University of Amsterdam</a>'s <a href="https://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> (ILLC). I'm advised by <a href="https://www.shutova.org/">Katia Shutova</a> and <a href="https://www.illc.uva.nl/People/person/1405/Prof-dr-Robert-van-Rooij">Robert van Rooij</a>. In my PhD, I work on bias, stereotypes and robustness in large Language Models. My research topic lies at the intersection of Natural Language Processing and Ethical AI. Previously, I obtained a BSc and MSc in Mathematics from <a href="https://www.imperial.ac.uk/">Imperial College London</a> and <a href="https://www.tum.de/en/">Technical University of Munich</a>.
 
-I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC and part of the <a href="https://certain-ai.nl/">Center for Explainable
-Responsible and Theory-driven Artificial Intelligence</a>. 
+My work has been covered by <a href="https://www.techpolicy.press/choosing-our-words-carefully/">Tech Policy Press</a>, <a href="https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/?guccounter=1">TechCrunch</a> and <a href="https://www.lesechos.fr/idees-debats/editos-analyses/lia-nen-a-pas-fini-avec-les-biais-2113572">Les Echos</a> (fr).
 
 [CV](assets/CV_AlinaLeidinger.pdf)
 
@@ -39,3 +38,8 @@ Responsible and Theory-driven Artificial Intelligence</a>.
 - **Alina Leidinger** and Richard Rogers. 2023. Which Stereotypes Are Moderated and Under-Moderated in Search Engine Autocompletion? [<a href="https://doi.org/10.1145/3593013.3594062">paper</a>] *ACM FAccT 2023*
 - Oskar van der Wal\*, Dominik Bachmann\*, **Alina Leidinger**, Leendert van Maanden, Jelle Zuidema, Katrin Schulz. Undesirable biases in NLP: Averting a crisis of measurement. [<a href="https://arxiv.org/pdf/2211.13709v2.pdf">paper</a>] *JAIR*
 - Christos Sagonas, Yannis Panagakis, **Alina Leidinger**, Stefanos Zafeiriou. 2017. Robust Joint and Individual Variance Explained. [<a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Sagonas_Robust_Joint_and_CVPR_2017_paper.pdf">paper</a>] *CVPR 2017*
+
+
+## Service
+
+I am also co-organiser of the <a href="https://projects.illc.uva.nl/LaCo/CLS/">Computational Linguistics Seminar</a> at the ILLC and part of the <a href="https://certain-ai.nl/">Center for Explainable Responsible and Theory-driven Artificial Intelligence</a>. 
