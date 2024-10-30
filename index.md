@@ -7,6 +7,8 @@ My work has been covered by <a href="https://www.techpolicy.press/choosing-our-w
 [CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
+- **Nov 2024**: I'm giving an invited talk at University of Göttingen, hosted by Professor Lisa Beinborn.
+- **Nov 2024**: I'm presenting at a <a href="https://wai-amsterdam.github.io/">workshop on bias</a> in Amsterdam! 🚴‍♀️ 
 - **Oct 2024**: I'm attending AIES in San Jose to present our work on stereotypes in LLMs & the CIVICS🤗 dataset!
 - **Oct 2024**: I'm in Milan to visit MilaNLP and give a talk on stereotyping in LLMs!
 - **Aug 2024**: I'm attending ACL🇹🇭🐘 to present our <a href="https://aclanthology.org/2024.acl-short.51/">paper on robust evaluation</a> in reasoning! 
