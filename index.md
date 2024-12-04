@@ -28,7 +28,7 @@ My work has been covered by <a href="https://www.techpolicy.press/choosing-our-w
 
 ## Publications
 **Preprints**
-- Marion Thaler, Abdullatif Köksal, **Alina Leidinger**, Anna Korhonen, Hinrich Schütze. 2024. Bias Propagation in LLMs: Tracing Gender Bias from Pre-training Data to Alignment. *Under review.*
+- Marion Thaler, Abdullatif Köksal, **Alina Leidinger**, Anna Korhonen, Hinrich Schütze. 2024. Bias Propagation in LLMs: Tracing Gender Bias from Pre-training Data to Alignment. [<a href="https://arxiv.org/abs/2411.19240">preprint</a>] *Under review.*
 
 **Peer-reviewed**
 - Giada Pistilli\*, **Alina Leidinger\***, Yacine Jernite, Atoosa Kasirzadeh, Alexandra Sasha Luccioni, Margaret Mitchell. 2024. CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models. [<a href="https://ojs.aaai.org/index.php/AIES/article/view/31710">paper</a>] *ACM/AAAI AI, Ethics, and Society.*
