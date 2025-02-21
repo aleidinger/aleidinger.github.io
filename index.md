@@ -7,6 +7,7 @@ My work has been covered by <a href="https://www.techpolicy.press/choosing-our-w
 [CV](assets/CV_AlinaLeidinger.pdf)
 
 ## News
+- **Feb 2025**: Our work on '<a href="https://arxiv.org/abs/2306.05949">Evaluating the Social Impact of Generative AI Systems in Systems and Society</a>' has been featured on the <a href="https://montrealethics.ai/evaluating-the-social-impact-of-generative-ai-systems-in-systems-and-society/">Montreal AI Ethics brief</a>!
 - **Nov 2024**: I'm giving an invited talk at University of Göttingen, hosted by Professor Lisa Beinborn.
 - **Nov 2024**: I'm presenting at a <a href="https://wai-amsterdam.github.io/">workshop on bias</a> in Amsterdam! 🚴‍♀️ 
 - **Oct 2024**: I'm attending AIES in San Jose to present our work on stereotypes in LLMs & the CIVICS🤗 dataset!
